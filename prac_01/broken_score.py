@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 - Practical
+CP1404/CP5632 - Practical 1
 Broken program to determine score status\
 
 score must be between 0 and 100 inclusive;
