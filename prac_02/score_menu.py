@@ -43,7 +43,7 @@ def print_score(score):
 
 
 def show_stars(score):
-    '''displays mumber of stars'''
+    '''displays number of stars'''
     for i in range(score):
         print("*", end=" ")
     print()
