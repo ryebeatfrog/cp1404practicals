@@ -20,8 +20,8 @@ def main():
     choice = input(">>> ").upper()
     while choice != "Q":
         if choice == "G":
-            score = int(input("Enter score: "))  # prints invalid option for some reason but works fine
-            print(score)
+            score = int(input("Enter score: "))
+            print(f"You have chosen {score} stars")
         elif choice == "P":
             print_score(score)
         elif choice == "S":
