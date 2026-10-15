@@ -7,9 +7,9 @@
 # print(read_name)
 # # name = input("What is your name: ")
 # # print({name}, file=out_file)
-#
 
-#
+
+
 FILENAME = "numbers.txt"
 text = FILENAME.strip()
 in_file = open(FILENAME, 'r')
